@@ -258,6 +258,7 @@ body {
 }
 
 .hero-section {
+    position: relative;
     padding: 188px 0;
 
     background: linear-gradient(
