@@ -913,7 +913,7 @@ body {
 }
 
 .modal-icon-close {
-    color: currentColor;
+    fill: currentColor;
 }
 
 .modal-close:hover,
