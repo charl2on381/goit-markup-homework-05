@@ -919,6 +919,7 @@ body {
 .modal-close:hover,
 .modal-close:focus {
     background-color: #404BBF;
+    color: #ffffff;
 }
 
 .modal-close {
